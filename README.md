@@ -33,7 +33,7 @@ PennyWise is a Django-based web application designed to help users manage their 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mehnaz2004/PennyWise_Django.git
+   git clone https://github.com/Athrvvv/PennyWise_Django.git
    cd PennyWise_Django
 
 2. Create a virtual environment and activate it:
